@@ -1,0 +1,27 @@
+/*global*/
+
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: black; color: white;
+}
+main {
+    width: 50%;
+}
+/*utilities*/
+
+/*header*/
+h1.my-name{
+   text-transform: capitalize; 
+   text-align: center;
+   color: brown;
+   letter-spacing: 10px;
+   font-size: 28px;
+   text-shadow: 2px 2px #3f0202; 
+}
+p.title{
+    text-transform: uppercase;
+    text-align: center;
+    color: brown;
+}
+
+/*main*/
